@@ -1,5 +1,5 @@
-def seizure(epileptic=True):
-  while epileptic == True:
+def seizure():
+  while True:
     return seizure()
 seizure()
 
